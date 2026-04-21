@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DevOps Engineer Portfolio</title>
+    <title>Yamini DevOps Engineer Portfolio</title>
     <style>
         /* General Styles */
         body {
@@ -220,7 +220,7 @@
     </section>
 
     <footer>
-        <p>© 2024 Mustafa | DevOps Engineer Portfolio | <a href="#about">Back to Top</a></p>
+        <p>© 2026 Yamini | DevOps Engineer Portfolio | <a href="#about">Back to Top</a></p>
     </footer>
 </body>
 </html>
